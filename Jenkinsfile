@@ -8,7 +8,7 @@ pipeline {
         STUDENT_ID      = '37590'
         IMAGE_NAME      = 'yestaikyzy-altynay-devops'
         CONTAINER_NAME  = 'yestaikyzy-altynay-container'
-        PATH            = "/usr/local/bin:/opt/homebrew/bin:/Applications/Docker.app/Contents/Resources/bin:${env.PATH}"
+        PATH            = "/usr/local/bin:/opt/homebrew/bin:/Users/altynai/.docker/bin:${env.PATH}"
     }
 
     stages {
