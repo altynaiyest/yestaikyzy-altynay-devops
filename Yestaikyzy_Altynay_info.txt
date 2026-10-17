@@ -1,0 +1,5 @@
+Name: Altynay
+Surname: Yestaikyzy
+Group: IT2-2309
+Student ID: 37590
+Course: DevOps
