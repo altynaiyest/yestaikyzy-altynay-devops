@@ -1,0 +1,11 @@
+services:
+  app:
+    build: .
+    image: yestaikyzy-altynay-devops
+    container_name: yestaikyzy-altynay-container
+    environment:
+      STUDENT_NAME: Altynay
+      STUDENT_SURNAME: Yestaikyzy
+      STUDENT_GROUP: IT2-2309
+      STUDENT_ID: "37590"
+      KEEP_ALIVE: "1"
